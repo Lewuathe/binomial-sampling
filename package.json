@@ -1,0 +1,23 @@
+{
+  "name": "binomial-sampling",
+  "version": "0.0.1",
+  "description" : "Sampling algorithm from binomial distribution",
+  "repository" : {
+          "type" : "git",
+          "url"  : "https://github.com/Lewuathe/n42"
+  },
+  "main": "./lib",
+  "scripts": {
+        "test" : "node_modules/vows/bin/vows test/*-test.js --spec"
+  },
+  "dependencies": {
+      "pkginfo": "~0.3.0"
+  },
+  "devDependencies" : {
+      "vows" : "~0.7.0"
+  },
+  "engines" : {
+      "node" : ">=0.10.0",
+      "npm" : "~1.2.21"
+  }
+}
