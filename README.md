@@ -16,6 +16,9 @@ $ npm install
 ```js
 var binomial = require('binomial-sampling');
 
+// binomial(n, p) 
+// n is the size of sample
+// p is the probability of each test
 console.log(binomial(10, 0.1));
 
 // --> return the value according to binomial distribution
