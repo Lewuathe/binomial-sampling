@@ -3,7 +3,7 @@ binomial-sampling [![Build Status](https://travis-ci.org/Lewuathe/binomial-sampl
 
 Sampling algorithm from binomial distribution
 
-## Gettin started
+## Getting started
 
 ### Install
 
@@ -20,3 +20,8 @@ console.log(binomial(10, 0.1));
 
 // --> return the value according to binomial distribution
 ```
+
+
+## LICENSE
+
+MIT License. Please see the LICENSE file for details.
