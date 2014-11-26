@@ -1,10 +1,10 @@
 {
   "name": "binomial-sampling",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description" : "Sampling algorithm from binomial distribution",
   "repository" : {
           "type" : "git",
-          "url"  : "https://github.com/Lewuathe/n42"
+          "url"  : "https://github.com/Lewuathe/binomial-sampling"
   },
   "main": "./lib",
   "scripts": {
