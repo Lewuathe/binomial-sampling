@@ -8,7 +8,7 @@ Sampling algorithm from binomial distribution
 ### Install
 
 ```
-$ npm install
+$ npm install binomial-sampling
 ```
 
 ### How to use
